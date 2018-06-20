@@ -299,6 +299,8 @@ small {
   small.para {
     color: rgba(28, 208, 181, 0.5); }
 
+    body { margin:0; }
+
     .email {
       align-items: center;
       text-align: center;
