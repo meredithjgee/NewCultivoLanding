@@ -311,6 +311,7 @@ small {
 
     .who-we-are {
       padding: 54px 20px 100px;
+      margin-right: 20px;
       color: #000000;
       background-color: #FFFFFF;
       background-position: 50vw center;
@@ -354,6 +355,7 @@ small {
 
     .col-6.sell {
       width: 250px;
+      margin-left: 28px;
     }
     .container .spacer {flex: 1;}
     .container .col-1 {flex: 1;}
